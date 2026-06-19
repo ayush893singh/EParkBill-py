@@ -1,4 +1,4 @@
-ParkEase
+# Smart Electric Parking Bill
 
 A simple Python project that calculates parking fees based on vehicle type and parking duration.
 
@@ -113,6 +113,5 @@ A simple Python parking fee calculator that computes parking charges based on ve
 
 ---
 
-Author
-
-Ayush Singh
+# Author
+Ayush Singh https://github.com/ayush893singh
