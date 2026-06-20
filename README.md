@@ -2,7 +2,7 @@
 
 A simple Python project that calculates parking fees based on vehicle type and parking duration.
 
-Features
+# Features
 
 - Supports Bike and Car parking
 - Calculates parking fee automatically
@@ -12,13 +12,13 @@ Features
 
 ---
 
-Technologies Used
+# Technologies Used
 
 - Python
 
 ---
 
-Concepts Used
+# Concepts Used
 
 This project uses:
 
@@ -31,7 +31,7 @@ This project uses:
 
 ---
 
-Parking Rates
+## Parking Rates
 
 Vehicle Type| Rate
 Bike| ₹10 per hour
@@ -39,7 +39,7 @@ Car| ₹20 per hour
 
 ---
 
-Installation
+# Installation
 
 1. Install Python on your computer.
 2. Download or clone this repository.
@@ -47,13 +47,13 @@ Installation
 
 ---
 
-How to Run
+# How to Run
 
 python main.py
 
 ---
 
-How It Works
+# How It Works
 
 1. User enters vehicle type.
 2. User enters parking duration in hours.
@@ -63,13 +63,13 @@ How It Works
 
 ---
 
-Formula Used
+# Formula Used
 
 Parking Fee = Hourly Rate × Parking Duration
 
 ---
 
-Example Output
+# Example Output
 
 ===== Parking Fee Calculator =====
 
@@ -81,33 +81,7 @@ Parking Duration: 2.5 hours
 Total Fee = ₹50.0
 
 ---
-
-Project Structure
-
-ParkEase/
-│
-├── main.py
-└── README.md
-
----
-
-Future Improvements
-
-- Add Truck and Bus support
-- Entry and Exit Time calculation
-- Daily parking records
-- Save parking history to file
-- Generate parking receipts
-
----
-
-Repository Name
-
-parkease-python
-
----
-
-Repository Description
+# Repository Description
 
 A simple Python parking fee calculator that computes parking charges based on vehicle type and parking duration.
 
