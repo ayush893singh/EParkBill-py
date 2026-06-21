@@ -1,9 +1,7 @@
 # Smart Electric Parking Bill
-
 A simple Python project that calculates parking fees based on vehicle type and parking duration.
 
 # Features
-
 - Supports Bike and Car parking
 - Calculates parking fee automatically
 - Accepts decimal parking duration (e.g., 1.5 hours, 2.5 hours)
@@ -11,15 +9,7 @@ A simple Python project that calculates parking fees based on vehicle type and p
 - Simple command-line interface
 
 ---
-
-# Technologies Used
-
-- Python
-
----
-
 # Concepts Used
-
 This project uses:
 
 - Variables
@@ -32,29 +22,22 @@ This project uses:
 ---
 
 ## Parking Rates
-
 Vehicle Type| Rate
 Bike| ₹10 per hour
 Car| ₹20 per hour
 
 ---
-
 # Installation
-
 1. Install Python on your computer.
 2. Download or clone this repository.
 3. Open a terminal in the project folder.
-
 ---
 
 # How to Run
-
 python main.py
-
 ---
 
 # How It Works
-
 1. User enters vehicle type.
 2. User enters parking duration in hours.
 3. Program checks the hourly rate.
@@ -64,13 +47,10 @@ python main.py
 ---
 
 # Formula Used
-
 Parking Fee = Hourly Rate × Parking Duration
-
 ---
 
 # Example Output
-
 ===== Parking Fee Calculator =====
 
 Enter vehicle type (Bike/Car): car
